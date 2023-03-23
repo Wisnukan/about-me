@@ -1,0 +1,14 @@
+/* Font */
+@font-face {
+		    font-family: 'kaushan_scriptregular';
+		    src: url('kaushanscript-regular-webfont.woff2') format('woff2'),
+		         url('kaushanscript-regular-webfont.woff') format('woff');
+		    font-weight: normal;
+		    font-style: normal;
+
+}
+		    
+/* Style Utama */
+body {
+	font: 18/36px 'kaushan_scriptregular', 'Arial Narrow', arial, sans-serif;
+}
